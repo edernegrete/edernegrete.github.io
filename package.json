@@ -13,18 +13,11 @@
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "dependencies": {
-    "gatsby": "^2.0.118",
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "gatsby": "2.0.118",
+    "react": "16.8.0",
+    "react-dom": "16.8.0"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "2.0.1"
   }
 }
