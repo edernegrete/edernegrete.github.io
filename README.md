@@ -1,3 +1,5 @@
+Checkout my post about how to deploy gatsby with github: https://medium.com/@ederng/google-domains-gatsby-github-pages-https-19708016bf0e
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
